@@ -1,0 +1,16 @@
+{
+  "name": "vitest-tdd",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "Johan Bergens",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^4.4.9",
+    "vitest": "^0.34.5"
+  }
+}
